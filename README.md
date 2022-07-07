@@ -1,5 +1,5 @@
 # Khoa_Portfolio
-Housing Prices Comparision
+
 
 # [PROJECT 1](https://github.com/teenee3051/DS_Project)
 ## I. INTRODUCTION:
